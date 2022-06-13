@@ -1,14 +1,4 @@
-
-## [Updated Version Available (V13)](https://github.com/sangwin/Student-Management-Angular-13-CRUD)
-
-## [Click here for the demo](https://blog.sangw.in/angular-student-management/)
-
-
-
-# Angular Version 8 - Demo CRUD Application / Project for Beginners
-# Student Management
-### Created By [Sangwin Gawande](https://sangw.in)
-
+# Student Management System
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
 ## Feature list
